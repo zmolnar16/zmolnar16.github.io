@@ -1,10 +1,5 @@
-#aboutpicture {
-  width: fit-content;
-  height: fit-content;
-}
-
 h1 {
-  color: green;
+  color: blue;
 }
 .container {
   max-width: 600px;
